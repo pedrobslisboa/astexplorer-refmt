@@ -13,7 +13,7 @@
 
 (license ISC)
 
-(maintainers "Javier Chávarri <javier.chavarri@gmail.com>")
+(maintainers "Javier Chávarri <javier.chavarri@gmail.com>" "Pedro Lisboa <pedrobslisboa@gmail.com>")
 
 (authors "Javier Chávarri <javier.chavarri@gmail.com>")
 
